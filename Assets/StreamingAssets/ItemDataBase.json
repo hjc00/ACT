@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "name": "health potion",
+    "value": 20,
+    "path": "Sprite/healthPotion",
+    "objPath": "Prefabs/Items/HealthPotion"
+  },
+  {
+    "id": 1,
+    "name": "speed potion",
+    "value": 2,
+    "path": "Sprite/speedPotion",
+    "objPath": "Prefabs/Items/SpeedPotion"
+  }
+]
